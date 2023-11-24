@@ -3,7 +3,7 @@ Este projeto simples implementa uma classe em Java para criar um objeto Produto.
 
 This simple project implements a Java class to create a Produto object. The Produto class has a purchase price and a fixed markup index. The class provides a method to calculate the selling price of the Produto.
 
-##🚀 Como Usar / How to Use
+🚀 Como Usar / How to Use
 
 Clone este repositório para sua máquina local. / Clone this repository to your local machine.
 Abra o projeto em seu ambiente de desenvolvimento Java. / Open the project in your Java development environment.
@@ -14,7 +14,7 @@ Ao executar a aplicação, você será solicitado a inserir o preço de compra d
 Insira o preço de compra e clique em OK. / Enter the purchase price and click OK.
 O programa calculará automaticamente o preço de venda e exibirá uma mensagem com o resultado. / The program will automatically calculate the selling price and display a message with the result.
 
-##⚙️ Estrutura do Código / Code Structure
+⚙️ Estrutura do Código / Code Structure
 
 Produto (Classe) / Product (Class)
 
@@ -32,14 +32,14 @@ Solicita a entrada do preço de compra via caixa de diálogo. / Requests input o
 
 Exibe o resultado da operação em uma mensagem de diálogo. / Displays the operation result in a dialog message.
 
-##🤝 Contribuições / Contributions
+🤝 Contribuições / Contributions
 
 Contribuições para este projeto são bem-vindas. Se você tiver sugestões de melhoria ou encontrar algum problema, por favor, abra uma issue. / Contributions to this project are welcome. If you have suggestions for improvement or encounter any issues, please open an issue.
 
-##📝 Licença / License
+📝 Licença / License
 
 Este projeto é licenciado sob a Licença MIT. / This project is licensed under the MIT License.
 
-##👤 Autor / Author
+👤 Autor / Author
 
 Este projeto foi criado por Denis Tomás. / This project was created by Denis Tomás.
