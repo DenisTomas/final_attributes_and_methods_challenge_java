@@ -6,12 +6,17 @@ This simple project implements a Java class to create a Produto object. The Prod
 🚀 Como Usar / How to Use
 
 Clone este repositório para sua máquina local. / Clone this repository to your local machine.
+
 Abra o projeto em seu ambiente de desenvolvimento Java. / Open the project in your Java development environment.
+
 Execute a classe ControladorProduto para interagir com o programa. / Run the ControladorProduto class to interact with the program.
+
 Instruções de Execução / Execution Instructions:
 
 Ao executar a aplicação, você será solicitado a inserir o preço de compra de um produto. / When running the application, you will be prompted to enter the purchase price of a product.
+
 Insira o preço de compra e clique em OK. / Enter the purchase price and click OK.
+
 O programa calculará automaticamente o preço de venda e exibirá uma mensagem com o resultado. / The program will automatically calculate the selling price and display a message with the result.
 
 ⚙️ Estrutura do Código / Code Structure
